@@ -59,3 +59,24 @@ You're about to initialize a Firebase project in this directory:
 [info] 
 [info] +  Success! Logged into GitHub as TobyComon 
 [info] 
+[debug] [2022-07-01T17:49:02.346Z] >>> [apiv2][query] GET https://api.github.com/repos/tobycomon/Toby-Comon/actions/secrets/public-key type=owner
+[debug] [2022-07-01T17:49:02.585Z] <<< [apiv2][status] GET https://api.github.com/repos/tobycomon/Toby-Comon/actions/secrets/public-key 401
+[debug] [2022-07-01T17:49:02.586Z] <<< [apiv2][body] GET https://api.github.com/repos/tobycomon/Toby-Comon/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2022-07-01T17:49:21.123Z] >>> [apiv2][query] GET https://api.github.com/repos/tobycomon/Toby-Comon/actions/secrets/public-key type=owner
+[debug] [2022-07-01T17:49:21.338Z] <<< [apiv2][status] GET https://api.github.com/repos/tobycomon/Toby-Comon/actions/secrets/public-key 401
+[debug] [2022-07-01T17:49:21.339Z] <<< [apiv2][body] GET https://api.github.com/repos/tobycomon/Toby-Comon/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2022-07-01T17:49:37.165Z] >>> [apiv2][query] GET https://api.github.com/repos/TobyComon/Toby-Comon/actions/secrets/public-key type=owner
+[debug] [2022-07-01T17:49:37.361Z] <<< [apiv2][status] GET https://api.github.com/repos/TobyComon/Toby-Comon/actions/secrets/public-key 401
+[debug] [2022-07-01T17:49:37.361Z] <<< [apiv2][body] GET https://api.github.com/repos/TobyComon/Toby-Comon/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2022-07-01T17:51:14.263Z] >>> [apiv2][query] GET https://api.github.com/repos/TobyComon/Toby-Comon/actions/secrets/public-key type=owner
+[debug] [2022-07-01T17:51:14.497Z] <<< [apiv2][status] GET https://api.github.com/repos/TobyComon/Toby-Comon/actions/secrets/public-key 401
+[debug] [2022-07-01T17:51:14.497Z] <<< [apiv2][body] GET https://api.github.com/repos/TobyComon/Toby-Comon/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2022-07-01T17:51:15.062Z] >>> [apiv2][query] GET https://api.github.com/repos/TobyComon/Toby-Comon/actions/secrets/public-key type=owner
+[debug] [2022-07-01T17:51:15.258Z] <<< [apiv2][status] GET https://api.github.com/repos/TobyComon/Toby-Comon/actions/secrets/public-key 401
+[debug] [2022-07-01T17:51:15.258Z] <<< [apiv2][body] GET https://api.github.com/repos/TobyComon/Toby-Comon/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2022-07-01T17:51:15.460Z] >>> [apiv2][query] GET https://api.github.com/repos/TobyComon/Toby-Comon/actions/secrets/public-key type=owner
+[debug] [2022-07-01T17:51:15.546Z] >>> [apiv2][query] GET https://api.github.com/repos//actions/secrets/public-key type=owner
+[debug] [2022-07-01T17:51:15.681Z] <<< [apiv2][status] GET https://api.github.com/repos/TobyComon/Toby-Comon/actions/secrets/public-key 401
+[debug] [2022-07-01T17:51:15.682Z] <<< [apiv2][body] GET https://api.github.com/repos/TobyComon/Toby-Comon/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2022-07-01T17:51:15.744Z] <<< [apiv2][status] GET https://api.github.com/repos//actions/secrets/public-key 401
+[debug] [2022-07-01T17:51:15.744Z] <<< [apiv2][body] GET https://api.github.com/repos//actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
