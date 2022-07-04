@@ -1,4 +1,5 @@
 body {
+  font-family: 'Titan One', cursive;
   background-color: #f9d1bc;
   min-height: 100vh;
   display: flex;
@@ -37,7 +38,7 @@ body {
     transform: translateZ(1em);
     background-position: center;
     background-size: cover;
-    background-image: url(\assets\img\IMG_4176.JPG);
+    background-image: url(../assets/img/IMG_4176.JPG);
   }
 
   .right {
